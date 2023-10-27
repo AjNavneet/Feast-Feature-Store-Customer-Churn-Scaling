@@ -1,4 +1,4 @@
-# FEAST Feature Store Customer churn for scaling ML model
+# FEAST Feature Store for scaling Customer Churn ML model
 
 ## Project Overview
 
