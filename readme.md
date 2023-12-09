@@ -1,6 +1,4 @@
-# FEAST Feature Store for scaling Customer Churn 
-
-## Project Overview
+# FEAST Feature Store for scaling Customer Churn
 
 ### Business Overview
 
@@ -59,20 +57,6 @@ The project follows these key steps:
 3. `feast_repo`: This folder is used for Feast-related files and configuration. It includes data, `example.py` for feature store creation, `feature_store.yaml` for configuring the feature store, and the "Feast - Feature Store.ipynb" notebook for exploring Feast.
 
 4. `requirements.txt`: The file lists all the required libraries and their respective versions for easy installation using `pip`.
-
----
-
-### Key Concepts Explored
-
-1. Introduction to Feast and its role in machine learning projects
-2. Installation and setup of Feast for feature management
-3. Understanding Feast entities, feature views, and architecture
-4. Online store and offline store concepts
-5. Data retrieval in Feast and available commands
-6. Training data creation using Feast for machine learning models
-7. Model training using both Random Forest and Gradient Boosting
-8. Real-time predictions using Feast
-9. Deployment of Feast using Postman for interactive use cases
 
 ---
 
